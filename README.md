@@ -51,7 +51,7 @@ Your self-presentation should include the following:
   - [ ] Basic understanding of functional programming (especially for React users): Compare functional programming and OOP
   
   
- ### Results
+ ### Results SE > SSE
  - [ ] English level: B1-B1+ (B1)
  - [x] Years: B (A+)
  - [ ] Primary Skill: Qualified (Qualified)

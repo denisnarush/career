@@ -67,6 +67,6 @@ Your self-presentation should include the following:
  
  ### Notes
  - Start day: 2/09/2020. Day when my personal HR tell me that she add me to the list for the English interview.
- - Date 9/09/2020: spent [1h] for understanding all requirements and phases for the interview.
- - Date 11/09/2020: spent [1.5h] for preparing to English + interview.
+ - Date 9/09/2020: spent [*1h*] for understanding all requirements and phases for the interview.
+ - Date 11/09/2020: spent [*1.5h*] for preparing to English + interview.
  - Grabing feedback from TL Roee.

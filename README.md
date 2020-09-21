@@ -65,7 +65,9 @@ Your self-presentation should include the following:
  - [ ] Learning capability: B (A)
  - [ ] Self-Management: B (A)
  
- 
+### Self-presentation
+
+
 ### Feedbacks
 > For the past year (almost) I have had the pleasure of working with Denis Narush on my team.
 > 

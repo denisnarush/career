@@ -7,14 +7,6 @@
 - [ ] Senior Software Engineer
 - [ ] Development Leader
 
-### Self-Presentation
-Your self-presentation should include the following:
-
-1. An explanation of how your [responsibilities](https://confluence.exadel.com/pages/viewpage.action?pageId=76121144) correspond to the requirements of your desired position, backed up with real examples from your project or projects
-2. A full description of your relevant work experience (recent and/or past), with a list of the tasks you performed
-3. The technology stack that you have been using recently
-4. Ranking of your knowledge of interview topics in descending order, starting with the topic you know best and finishing with the topic you know the least.
-
 ### Primary Skill
 - [ ] Framework (Implement Web App)
   - [ ] Bootstrapping application
@@ -65,7 +57,13 @@ Your self-presentation should include the following:
  - [ ] Learning capability: B (A)
  - [ ] Self-Management: B (A)
  
-### Self-presentation
+### Self-Presentation
+Your self-presentation should include the following:
+
+1. An explanation of how your [responsibilities](https://confluence.exadel.com/pages/viewpage.action?pageId=76121144) correspond to the requirements of your desired position, backed up with real examples from your project or projects
+2. A full description of your relevant work experience (recent and/or past), with a list of the tasks you performed
+3. The technology stack that you have been using recently
+4. Ranking of your knowledge of interview topics in descending order, starting with the topic you know best and finishing with the topic you know the least.
 
 
 ### Feedbacks

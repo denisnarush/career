@@ -104,7 +104,7 @@ Your self-presentation should include the following:
 > 
 > I hope we 'll continue professional and informal communication in future.
 
-[@AlexanderBazukevich](https://github.com/AlexanderBazukevich), learner
+[@AlexanderBazukevich](https://github.com/AlexanderBazukevich), learner.
  
  ### Notes
  - Start day: 2/09/2020. Day when my personal HR tell me that she add me to the list for the English interview.

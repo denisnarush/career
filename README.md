@@ -52,7 +52,7 @@ Your self-presentation should include the following:
   
   
  ### Results SE > SSE
- - [ ] English level: B1-B1+ (B1)
+ - [x] English level: B1-B1+ (B1)
  - [x] Years: B (A+)
  - [ ] Primary Skill: Qualified (Qualified)
  - [x] Responsibilities: Correspond (Correspond) ?
@@ -111,3 +111,5 @@ Your self-presentation should include the following:
  - Date 9/09/2020: spent [*1h*] for understanding all requirements and phases for the interview.
  - Date 11/09/2020: spent [*1.5h*] for preparing to English + interview.
  - Grabing feedback from TL Roee.
+ - Grabing feedback from Learner Alex.
+ - Date 21/09/2020: recived feedback from English interview.

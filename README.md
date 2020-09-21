@@ -113,3 +113,4 @@ Your self-presentation should include the following:
  - Grabing feedback from TL Roee.
  - Grabing feedback from Learner Alex.
  - Date 21/09/2020: recived feedback from English interview.
+ - Start working on "self-presentation".

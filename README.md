@@ -66,6 +66,16 @@ Your self-presentation should include the following:
 4. Ranking of your knowledge of interview topics in descending order, starting with the topic you know best and finishing with the topic you know the least.
 
 
+Current project gave me possibility to consolidate skills that are required to senior developer position.
+
+#### Customer
+I would say that escalate issues in my own area is a typical part of your daily work. As a results - taking part in technical descussions, clarifications and analyzation requirements is a regular situation. It gives me an understanding of business processes, domain. You become independent, self-reliant and self-manager - "If you need something: go and take it". And at the end of each sprint, milestone, we put on demonstrations for product owners.
+#### Project Management
+- Estimates effort on tasks through submodule/subsystem level
+- Is able to provide estimate for subordinates
+- Manages (identifies, communicates, coordinates, solves, escalates) dependencies on submodule/subsystem level, on level of subordinates/team/interteam
+- Assists implementing methodology on the project
+
 ### Feedbacks
 > For the past year (almost) I have had the pleasure of working with Denis Narush on my team.
 > 

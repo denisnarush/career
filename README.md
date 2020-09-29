@@ -77,7 +77,7 @@ On current project I helped Nastassia with onboarding and also I provided help f
 #### Quality
 One part of my work on previous project was created style guide for styling components using BEM methodology. Performs code review and analysis requirements for own area is a daily routine. Same to the quality of my technical solutions - working on code enhancement on free time.
 #### Area of Expertise (Development)
-
+It's a little funny, but I define the task by the time it takes to complete, instead of setting the difficulty level. So I don’t remember the task I couldn’t complete. I am often asked to help find a bug or help with html/css (sometimes floating elements are a pain in...). Most of my experience is with hybrid mobile app development. One of the interesting tasks was the easter egg in our Ionic app.
 #### Expertise
 Basically all my free time I devote to video tutorials or small, not obvious thoughts about the code. And I love to share these thoughts with my teammates (especially Andrey). I even set up a Skype group chat in the Grodno office to discuss some solutions or interesting topics I found. The last such topic was about 16bit JS. I was involved in the technical interview and was a mentor for junior employee in the local office. Often I take part in R&D projects.
 

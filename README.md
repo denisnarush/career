@@ -72,6 +72,8 @@ Current project gave me possibility to consolidate skills that are required to s
 I would say that escalate issues in my own area is a typical part of your daily work. As a results - taking part in technical descussions, clarifications and analyzation requirements is a regular situation. It gives me an understanding of business processes, domain. You become independent, self-reliant and self-manager - "If you need something: go and take it". And at the end of each sprint, milestone, we put on demonstrations for product owners.
 #### Project Management
 The project has 2 week sprints at the beginning of each sprint, there is `sprint planning` and grooming. After each grooming session, the task evaluation process is started there i estimate my own stories and provide help with estimation for Nastassia. In a previous project, I help my teammates adapt to the BEM methodology, which I integrated into the styling process.
+#### Team
+On current project I helped Nastassia with onboarding and also I provided help for other developers were are start work on submodules.
 
 ### Feedbacks
 > For the past year (almost) I have had the pleasure of working with Denis Narush on my team.

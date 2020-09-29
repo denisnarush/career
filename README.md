@@ -65,6 +65,8 @@ Your self-presentation should include the following:
 3. The technology stack that you have been using recently
 4. Ranking of your knowledge of interview topics in descending order, starting with the topic you know best and finishing with the topic you know the least.
 
+## Narush Denis
+
 - I ❤ vanilla JS
 - HTML, CSS Ninja
 - Know about Flow and I believe that the development is a creative process
@@ -87,6 +89,8 @@ Web and mobile interface that brings the user experience of a consumer webshop t
 #### WK eReader
 The WK eReader brings the trusted and authoritative legal, business, and tax analysis from Wolters Kluwer Law & Business directly to your iPad or Android devices. This application gives you instant linking to relevant cases, statutes and regulations, as well as enhanced functionality for efficient research work flow and increased productivity.
 
+
+## Responsibilities
 Current project gave me possibility to consolidate skills that are required to senior developer position.
 
 #### Customer

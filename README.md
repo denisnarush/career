@@ -74,6 +74,12 @@ I would say that escalate issues in my own area is a typical part of your daily 
 The project has 2 week sprints at the beginning of each sprint, there is `sprint planning` and grooming. After each grooming session, the task evaluation process is started there i estimate my own stories and provide help with estimation for Nastassia. In a previous project, I help my teammates adapt to the BEM methodology, which I integrated into the styling process.
 #### Team
 On current project I helped Nastassia with onboarding and also I provided help for other developers were are start work on submodules.
+#### Quality
+One part of my work on previous project was created style guide for styling components using BEM methodology. Performs code review and analysis requirements for own area is a daily routine. Same to the quality of my technical solutions - working on code enhancement on free time.
+#### Area of Expertise (Development)
+
+#### Expertise
+Basically all my free time I devote to video tutorials or small, not obvious thoughts about the code. And I love to share these thoughts with my teammates (especially Andrey). I even set up a Skype group chat in the Grodno office to discuss some solutions or interesting topics I found. The last such topic was about 16bit JS. I was involved in the technical interview and was a mentor for junior employee in the local office. Often I take part in R&D projects.
 
 ### Feedbacks
 > For the past year (almost) I have had the pleasure of working with Denis Narush on my team.

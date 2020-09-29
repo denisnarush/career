@@ -65,6 +65,27 @@ Your self-presentation should include the following:
 3. The technology stack that you have been using recently
 4. Ranking of your knowledge of interview topics in descending order, starting with the topic you know best and finishing with the topic you know the least.
 
+- I ❤ vanilla JS
+- HTML, CSS Ninja
+- Know about Flow and I believe that the development is a creative process
+- Have more than 10 years of commercial experience
+- Have 3 years of mentoring experience. All students successfully found jobs in IT-companies
+- Researching of animations and visual effects what can blow the mind from CSS3 to WebGL2
+
+### Stack
+- HTML/CSS (sass)
+- Javascript (typescript)
+- Angular, Ionic (base on angular)
+- Jest
+- Jenkins (build configuration)
+
+### Projects (at Exadel)
+#### Verifone (current)
+Multi app project were each app defines each own role from app development to end user usage in term of bank system with cooperation of unique Verifone's terminals. One applactions was developed for Web and Mobile (Android) platforms.
+#### GHX
+Web and mobile interface that brings the user experience of a consumer webshop together with powerful workflow and approval processes. GHX helps hospitals and healthcare suppliers to increase efficiency, lower costs and provide better patient care.
+#### WK eReader
+The WK eReader brings the trusted and authoritative legal, business, and tax analysis from Wolters Kluwer Law & Business directly to your iPad or Android devices. This application gives you instant linking to relevant cases, statutes and regulations, as well as enhanced functionality for efficient research work flow and increased productivity.
 
 Current project gave me possibility to consolidate skills that are required to senior developer position.
 

@@ -163,3 +163,4 @@ Basically all my free time I devote to video tutorials or small, not obvious tho
  - Grabing feedback from Learner Alex.
  - Date 21/09/2020: recived feedback from English interview.
  - Start working on "self-presentation".
+ - Date 30/09/2020: "self-presentation" complete & submited.

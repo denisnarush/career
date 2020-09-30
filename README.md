@@ -81,13 +81,18 @@ Your self-presentation should include the following:
 - Jest
 - Jenkins (build configuration)
 
+Full list can be found on my [github](https://github.com/denisnarush/MY) page.
+
 ### Projects (at Exadel)
 #### Verifone (current)
 Multi app project were each app defines each own role from app development to end user usage in term of bank system with cooperation of unique Verifone's terminals. One applactions was developed for Web and Mobile (Android) platforms.
+- `Angular 8, Ionic, Akita, Bulma, Jest, NX`
 #### GHX
 Web and mobile interface that brings the user experience of a consumer webshop together with powerful workflow and approval processes. GHX helps hospitals and healthcare suppliers to increase efficiency, lower costs and provide better patient care.
+- `Angular, Ionic, Material, Jasmine`
 #### WK eReader
 The WK eReader brings the trusted and authoritative legal, business, and tax analysis from Wolters Kluwer Law & Business directly to your iPad or Android devices. This application gives you instant linking to relevant cases, statutes and regulations, as well as enhanced functionality for efficient research work flow and increased productivity.
+- `AngularJS, Cordova, Sencha Touch, Protractor`
 
 
 ## Responsibilities
@@ -106,7 +111,9 @@ It's a little funny, but I define the task by the time it takes to complete, ins
 #### Expertise
 Basically all my free time I devote to video tutorials or small, not obvious thoughts about the code. And I love to share these thoughts with my teammates (especially Andrey). I even set up a Skype group chat in the Grodno office to discuss some solutions or interesting topics I found. The last such topic was about 16bit JS. I was involved in the technical interview and was a mentor for junior employee in the local office. Often I take part in R&D projects.
 
-### Feedbacks
+
+## Feedbacks
+-----
 > For the past year (almost) I have had the pleasure of working with Denis Narush on my team.
 > 
 > I could not have asked for a better team member than this:
@@ -127,9 +134,10 @@ Basically all my free time I devote to video tutorials or small, not obvious tho
 > And not just working with our team - Denis has helped me quite a bit to support other teams in the company who are participating in the project.
 > 
 > Some of the infrastructure we wrote on the team is used by all of Verifon's new infrastructures.
+#
+<div align="right">[@Roee Ovadia](https://github.com/roeeovadia), team leader of Verifone project.</div>
 
-[@Roee Ovadia](https://github.com/roeeovadia), team leader of Verifone project.
-
+-----
 > For the past year I have been studying Frontend developement with Denis Narush as mentor.
 > 
 > From the first steps it was clear that he has very strong and wide knowledge in tech stack based on HTML, CSS, JS from native features to modern frameworks and addons.
@@ -143,8 +151,9 @@ Basically all my free time I devote to video tutorials or small, not obvious tho
 > It was very helpful and positive experience of working with Denis.
 > 
 > I hope we 'll continue professional and informal communication in future.
+#
+<div align="right">[@AlexanderBazukevich](https://github.com/AlexanderBazukevich), learner.</div>
 
-[@AlexanderBazukevich](https://github.com/AlexanderBazukevich), learner.
  
  ### Notes
  - Start day: 2/09/2020. Day when my personal HR tell me that she add me to the list for the English interview.

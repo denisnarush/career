@@ -11,7 +11,7 @@
 - [ ] Framework (Implement Web App)
   - [x] Bootstrapping application
   - [ ] Framework specific patterns
-  - [ ] Code conventions
+  - [x] Code conventions
   - [x] Managing modules/dependencies
   - [ ] Framework performance nuances
   - [ ] Framework security features

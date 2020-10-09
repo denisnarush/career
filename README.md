@@ -9,13 +9,13 @@
 
 ### Primary Skill
 - [ ] Framework (Implement Web App)
-  - [ ] Bootstrapping application
+  - [x] Bootstrapping application
   - [ ] Framework specific patterns
   - [ ] Code conventions
-  - [ ] Managing modules/dependencies
+  - [x] Managing modules/dependencies
   - [ ] Framework performance nuances
   - [ ] Framework security features
-  - [ ] i18n, l10n
+  - [x] i18n, l10n
   - [ ] e2e testing
   - [ ] Advanced framework features, e.g. Reconciliation algorithm and Fiber architecture for React or AOT and Zone.js for Angular (just an example)
   - [ ] Discuss framework history (1-2 prev versions + possibly upcoming features)

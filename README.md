@@ -15,18 +15,23 @@
   - [x] Managing modules/dependencies
   - [ ] Framework performance nuances
   - [ ] Framework security features
-     - [ ] [https://angular.io/guide/security](https://angular.io/guide/security)
+    - [ ] [https://angular.io/guide/security](https://angular.io/guide/security)
   - [x] i18n, l10n
-     - [x] [https://v8.angular.io/guide/i18n](https://v8.angular.io/guide/i18n)
+    - [x] [https://v8.angular.io/guide/i18n](https://v8.angular.io/guide/i18n)
   - [ ] e2e testing
+    - [ ] [https://v8.angular.io/guide/testing](https://v8.angular.io/guide/testing)
   - [ ] Advanced framework features, e.g. Reconciliation algorithm and Fiber architecture for React or AOT and Zone.js for Angular (just an example)
+    - [ ] AOT [https://v8.angular.io/guide/aot-compiler)(https://v8.angular.io/guide/aot-compiler)
+    - [ ] Zone.js []()
   - [ ] Discuss framework history (1-2 prev versions + possibly upcoming features)
 
 - [ ] Multitasking
   - [x] JS event loop
-  - [ ] Promises
+    - [x] ![Schema](https://habrastorage.org/webt/l0/z9/q2/l0z9q2s-zdltplomxlim269pu7k.png)
+  - [x] Promises
   - [ ] Async/await
   - [ ] Generators
+    - [ ] [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
   - [ ] Web workers / Service workers
   - [ ] RxJS core concepts (if specified): Observable, Observer
   - [ ] RxJS core concepts (if specified): Operators - most common ones
@@ -37,6 +42,7 @@
 - [ ] Design & Architecture (Patterns or Principles)
   - [ ] GOF patterns. Can explain, identify, use
   - [ ] SOLID/Inversion of control/DI
+    - [ ] DI [https://v8.angular.io/guide/dependency-injection)(https://v8.angular.io/guide/dependency-injection)
   - [ ] Anti-patterns/SOLID
   - [ ] Static typing: soundness vs completeness
   - [ ] Basic understanding of functional programming (especially for React users): Higher order functions

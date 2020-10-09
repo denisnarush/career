@@ -42,7 +42,7 @@
 - [ ] Design & Architecture (Patterns or Principles)
   - [ ] GOF patterns. Can explain, identify, use
   - [ ] SOLID/Inversion of control/DI
-    - [ ] DI [https://v8.angular.io/guide/dependency-injection)(https://v8.angular.io/guide/dependency-injection)
+    - [ ] DI [https://v8.angular.io/guide/dependency-injection](https://v8.angular.io/guide/dependency-injection)
   - [ ] Anti-patterns/SOLID
   - [ ] Static typing: soundness vs completeness
   - [ ] Basic understanding of functional programming (especially for React users): Higher order functions

@@ -41,6 +41,8 @@
 
 - [ ] Design & Architecture (Patterns or Principles)
   - [ ] GOF patterns. Can explain, identify, use
+    - [ ] Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+    - [ ] [Patterns](https://refactoring.guru/ru/design-patterns)
   - [ ] SOLID/Inversion of control/DI
     - [ ] DI [https://v8.angular.io/guide/dependency-injection](https://v8.angular.io/guide/dependency-injection)
   - [ ] Anti-patterns/SOLID

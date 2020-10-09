@@ -29,6 +29,7 @@
   - [x] JS event loop
     - [x] ![Schema](https://habrastorage.org/webt/l0/z9/q2/l0z9q2s-zdltplomxlim269pu7k.png)
   - [x] Promises
+    - [ ] [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
   - [ ] Async/await
   - [ ] Generators
     - [ ] [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
@@ -174,3 +175,4 @@ Basically all my free time I devote to video tutorials or small, not obvious tho
  - Date 21/09/2020: recived feedback from English interview.
  - Start working on "self-presentation".
  - Date 30/09/2020: "self-presentation" complete & submited.
+ - Date 09/10/2020: Technical interview was skipped. One person was sick.

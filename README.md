@@ -21,7 +21,7 @@
   - [ ] e2e testing
     - [ ] [https://v8.angular.io/guide/testing](https://v8.angular.io/guide/testing)
   - [ ] Advanced framework features, e.g. Reconciliation algorithm and Fiber architecture for React or AOT and Zone.js for Angular (just an example)
-    - [ ] AOT [https://v8.angular.io/guide/aot-compiler)(https://v8.angular.io/guide/aot-compiler)
+    - [ ] AOT [https://v8.angular.io/guide/aot-compiler](https://v8.angular.io/guide/aot-compiler)
     - [ ] Zone.js []()
   - [ ] Discuss framework history (1-2 prev versions + possibly upcoming features)
 

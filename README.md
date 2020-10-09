@@ -21,7 +21,7 @@
   - [ ] Discuss framework history (1-2 prev versions + possibly upcoming features)
 
 - [ ] Multitasking
-  - [ ] JS event loop
+  - [x] JS event loop
   - [ ] Promises
   - [ ] Async/await
   - [ ] Generators

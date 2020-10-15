@@ -13,7 +13,8 @@
   - [ ] Framework specific patterns
   - [x] Code conventions
   - [x] Managing modules/dependencies
-  - [ ] Framework performance nuances
+  - [x] Framework performance nuances
+    - [x] AOT, Lazy Loading, Pure Pipes, Resolve Guard, Unsubscribe from Observables
   - [ ] Framework security features
     - [ ] [https://angular.io/guide/security](https://angular.io/guide/security)
   - [x] i18n, l10n
@@ -21,7 +22,7 @@
   - [ ] e2e testing
     - [ ] [https://v8.angular.io/guide/testing](https://v8.angular.io/guide/testing)
   - [ ] Advanced framework features, e.g. Reconciliation algorithm and Fiber architecture for React or AOT and Zone.js for Angular (just an example)
-    - [ ] AOT [https://v8.angular.io/guide/aot-compiler](https://v8.angular.io/guide/aot-compiler)
+    - [X] AOT [https://v8.angular.io/guide/aot-compiler](https://v8.angular.io/guide/aot-compiler)
     - [ ] Zone.js []()
   - [ ] Discuss framework history (1-2 prev versions + possibly upcoming features)
 

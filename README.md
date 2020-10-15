@@ -52,11 +52,7 @@
   - [ ] SOLID/Inversion of control/DI
     - [ ] DI [https://v8.angular.io/guide/dependency-injection](https://v8.angular.io/guide/dependency-injection)
   - [ ] Anti-patterns/SOLID
-  - [ ] Static typing: soundness vs completeness
-  - [ ] Basic understanding of functional programming (especially for React users): Higher order functions
-  - [ ] Basic understanding of functional programming (especially for React users): Pure functions
-  - [ ] Basic understanding of functional programming (especially for React users): Immutability
-  - [ ] Basic understanding of functional programming (especially for React users): Compare functional programming and OOP
+  - [x] Static typing: [soundness and completeness](https://eschew.wordpress.com/2009/08/31/sound-and-complete/)
   
   
  ### Results SE > SSE

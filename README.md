@@ -34,6 +34,18 @@
      ![Schema](https://habrastorage.org/webt/l0/z9/q2/l0z9q2s-zdltplomxlim269pu7k.png)
   - [x] Promises
     - [x] [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+
+      ```
+      new Promise(function(resolve, reject) {
+        // resolve(результат) при успешном выполнении
+        // reject(ошибка) при ошибке
+      })
+      // onFulfilled сработает при успешном выполнении
+      .then(onFulfilled)
+      // onRejected сработает при ошибке
+      .catch(onRejected)
+      ```
   - [x] Async/await
     - [x] [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
     - [x] [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)

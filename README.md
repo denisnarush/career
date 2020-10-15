@@ -15,12 +15,12 @@
   - [x] Managing modules/dependencies
   - [x] Framework performance nuances
     - [x] AOT, Lazy Loading, Pure Pipes, Resolve Guard, Unsubscribe from Observables
-  - [ ] Framework security features
-    - [ ] [https://angular.io/guide/security](https://angular.io/guide/security)
+  - [x] Framework security features
+    - [x] [https://angular.io/guide/security](https://angular.io/guide/security)
   - [x] i18n, l10n
     - [x] [https://v8.angular.io/guide/i18n](https://v8.angular.io/guide/i18n)
-  - [ ] e2e testing
-    - [ ] [https://v8.angular.io/guide/testing](https://v8.angular.io/guide/testing)
+  - [x] e2e testing
+    - [x] [https://v8.angular.io/guide/testing](https://v8.angular.io/guide/testing)
   - [ ] Advanced framework features, e.g. Reconciliation algorithm and Fiber architecture for React or AOT and Zone.js for Angular (just an example)
     - [X] AOT [https://v8.angular.io/guide/aot-compiler](https://v8.angular.io/guide/aot-compiler)
       - Faster rendering, Fewer asynchronous requests (html, css), Smaller Angular framework download size, Detect template errors earlier, Better security

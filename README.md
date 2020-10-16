@@ -59,7 +59,10 @@
     const apps$ = new Observable(subscriber => {
       subscriber.next(1)
     });
-    // An Observer is a consumer of values delivered by an Observable. Observers are simply a set of callbacks, one for each type of notification delivered by the Observable: next, error, and complete. The following is an example of a typical Observer object:
+    // An Observer is a consumer of values delivered by an Observable.
+    // Observers are simply a set of callbacks, one for each type of notification
+    // delivered by the Observable: next, error, and complete.
+    // The following is an example of a typical Observer object:
     const observer = {
       next: x => console.log('Observer got a next value: ' + x),
       error: err => console.error('Observer got an error: ' + err),
@@ -72,7 +75,8 @@
   - [x] RxJS core concepts (if specified): Subjects
   
     ```javascript
-    // A Subject is like an Observable, but can multicast to many Observers. Subjects are like EventEmitters: they maintain a registry of many listeners.
+    // A Subject is like an Observable, but can multicast to many Observers.
+    // Subjects are like EventEmitters: they maintain a registry of many listeners.
     subject.subscribe({
       next: (v) => console.log(`observerA: ${v}`)
     });

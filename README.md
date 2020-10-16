@@ -35,7 +35,7 @@
   - [x] Promises
     - [x] [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
-      ```
+      ```javascript
       new Promise(function(resolve, reject) {
         // resolve(результат) при успешном выполнении
         // reject(ошибка) при ошибке
@@ -53,10 +53,41 @@
     - [x] [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   - [x] [Web workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
   - [x] [Service workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
-  - [ ] RxJS core concepts (if specified): Observable, Observer
-  - [ ] RxJS core concepts (if specified): Operators - most common ones
-  - [ ] RxJS core concepts (if specified): Subjects
-  - [ ] RxJS core concepts (if specified): Cold vs hot observables
+  - [x] RxJS core concepts (if specified): Observable, Observer
+
+    ```javascript
+    const apps$ = new Observable(subscriber => {
+      subscriber.next(1)
+    });
+    // An Observer is a consumer of values delivered by an Observable. Observers are simply a set of callbacks, one for each type of notification delivered by the Observable: next, error, and complete. The following is an example of a typical Observer object:
+    const observer = {
+      next: x => console.log('Observer got a next value: ' + x),
+      error: err => console.error('Observer got an error: ' + err),
+      complete: () => console.log('Observer got a complete notification'),
+    };
+    // To use the Observer, provide it to the subscribe of an Observable:
+    apps$.subscribe(observer);
+    ```
+  - [x] RxJS core concepts (if specified): Operators - most common ones (filer, findIndex, delay, tap, map, pluck, switchMap, reduce)
+  - [x] RxJS core concepts (if specified): Subjects
+  
+    ```javascript
+    // A Subject is like an Observable, but can multicast to many Observers. Subjects are like EventEmitters: they maintain a registry of many listeners.
+    subject.subscribe({
+      next: (v) => console.log(`observerA: ${v}`)
+    });
+    subject.subscribe({
+      next: (v) => console.log(`observerB: ${v}`)
+    });
+    
+    new BehaviorSubject(0); // 0 is the initial value
+    new ReplaySubject(3); // buffer 3 values for new subscribers
+    ```
+  - [x] RxJS core concepts (if specified): Cold vs hot observables
+
+    ```javascript
+    // When the data is produced by the Observable itself, we call it a cold Observable. When the data is produced outside the Observable, we call it a hot Observable.
+    ```
   - [ ] RxJS core concepts (if specified): Typical applications
 
 - [x] Design & Architecture (Patterns or Principles)

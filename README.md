@@ -59,8 +59,8 @@
   - [ ] RxJS core concepts (if specified): Cold vs hot observables
   - [ ] RxJS core concepts (if specified): Typical applications
 
-- [ ] Design & Architecture (Patterns or Principles)
-  - [ ] GOF patterns. Can explain, identify, use
+- [x] Design & Architecture (Patterns or Principles)
+  - [x] GOF patterns. Can explain, identify, use
     - [x] The book was written by 4 authours: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
     - [x] [Patterns](https://refactoring.guru/ru/design-patterns)
       - [x] Creation: [Singletone](https://refactoring.guru/design-patterns/singleton),
@@ -68,7 +68,7 @@
       - [x] Behavioral: [Observer](https://refactoring.guru/design-patterns/observer),
   - [x] SOLID/Inversion of control/DI
     - [x] DI [https://v8.angular.io/guide/dependency-injection](https://v8.angular.io/guide/dependency-injection)
-  - [ ] Anti-patterns/SOLID
+  - [x] Anti-patterns [article](https://habr.com/ru/post/59005/)
   - [x] Static typing: [soundness and completeness](https://eschew.wordpress.com/2009/08/31/sound-and-complete/)
   
   

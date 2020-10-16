@@ -35,7 +35,6 @@
   - [x] Promises
     - [x] [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
-
       ```
       new Promise(function(resolve, reject) {
         // resolve(результат) при успешном выполнении
@@ -52,7 +51,8 @@
   - [x] Spread "[...](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)" operator
   - [x] Iterators/Generators
     - [x] [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
-  - [ ] Web workers / Service workers
+  - [x] [Web workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
+  - [x] [Service workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
   - [ ] RxJS core concepts (if specified): Observable, Observer
   - [ ] RxJS core concepts (if specified): Operators - most common ones
   - [ ] RxJS core concepts (if specified): Subjects

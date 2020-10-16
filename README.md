@@ -62,10 +62,12 @@
 - [ ] Design & Architecture (Patterns or Principles)
   - [ ] GOF patterns. Can explain, identify, use
     - [x] The book was written by 4 authours: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
-    - [ ] [Patterns](https://refactoring.guru/ru/design-patterns)
-      - [Facade](https://refactoring.guru/ru/design-patterns/facade)
-  - [ ] SOLID/Inversion of control/DI
-    - [ ] DI [https://v8.angular.io/guide/dependency-injection](https://v8.angular.io/guide/dependency-injection)
+    - [x] [Patterns](https://refactoring.guru/ru/design-patterns)
+      - [x] Creation: [Singletone](https://refactoring.guru/design-patterns/singleton),
+      - [x] Structural: [Facade](https://refactoring.guru/ru/design-patterns/facade), [Wrapper/decorator](https://refactoring.guru/ru/design-patterns/decorator)
+      - [x] Behavioral: [Observer](https://refactoring.guru/design-patterns/observer),
+  - [x] SOLID/Inversion of control/DI
+    - [x] DI [https://v8.angular.io/guide/dependency-injection](https://v8.angular.io/guide/dependency-injection)
   - [ ] Anti-patterns/SOLID
   - [x] Static typing: [soundness and completeness](https://eschew.wordpress.com/2009/08/31/sound-and-complete/)
   

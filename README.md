@@ -90,7 +90,8 @@
   - [x] RxJS core concepts (if specified): Cold vs hot observables
 
     ```javascript
-    // When the data is produced by the Observable itself, we call it a cold Observable. When the data is produced outside the Observable, we call it a hot Observable.
+    // When the data is produced by the Observable itself, we call it a cold Observable.
+    // When the data is produced outside the Observable, we call it a hot Observable.
     ```
   - [ ] RxJS core concepts (if specified): Typical applications
 

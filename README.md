@@ -63,6 +63,7 @@
   - [ ] GOF patterns. Can explain, identify, use
     - [x] The book was written by 4 authours: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
     - [ ] [Patterns](https://refactoring.guru/ru/design-patterns)
+      - [Facade](https://refactoring.guru/ru/design-patterns/facade)
   - [ ] SOLID/Inversion of control/DI
     - [ ] DI [https://v8.angular.io/guide/dependency-injection](https://v8.angular.io/guide/dependency-injection)
   - [ ] Anti-patterns/SOLID

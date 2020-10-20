@@ -21,7 +21,7 @@
     - [x] [https://v8.angular.io/guide/i18n](https://v8.angular.io/guide/i18n)
   - [x] e2e testing
     - [x] [https://v8.angular.io/guide/testing](https://v8.angular.io/guide/testing)
-  - [ ] Advanced framework features, e.g. Reconciliation algorithm and Fiber architecture for React or AOT and Zone.js for Angular (just an example)
+  - [x] Advanced framework features, e.g. Reconciliation algorithm and Fiber architecture for React or AOT and Zone.js for Angular (just an example)
     - [X] AOT [https://v8.angular.io/guide/aot-compiler](https://v8.angular.io/guide/aot-compiler)
 
        ```
@@ -31,13 +31,17 @@
        // Detect template errors earlier,
        // Better security.
        ```
-    - [ ] Zone.js []()
-  - [ ] Discuss framework history (1-2 prev versions + possibly upcoming features)
+    - [x] Zone.js
+  - [x] Discuss framework history (1-2 prev versions + possibly upcoming features)
 
-- [ ] Multitasking
+- [x] Multitasking
   - [x] JS event loop
       
      ![Schema](https://habrastorage.org/webt/l0/z9/q2/l0z9q2s-zdltplomxlim269pu7k.png)
+     
+     [![Jake Archibald: In The Loop - JSConf.Asia
+](https://img.youtube.com/vi/cCOL7MC4Pl0/maxresdefault.jpg)](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+
   - [x] Promises
     - [x] [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
@@ -99,7 +103,7 @@
     // When the data is produced by the Observable itself, we call it a cold Observable.
     // When the data is produced outside the Observable, we call it a hot Observable.
     ```
-  - [ ] RxJS core concepts (if specified): Typical applications
+  - [x] RxJS core concepts (if specified): Typical applications
 
 - [x] Design & Architecture (Patterns or Principles)
   - [x] GOF patterns. Can explain, identify, use

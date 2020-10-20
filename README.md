@@ -8,9 +8,9 @@
 - [ ] Development Leader
 
 ### Primary Skill
-- [ ] Framework (Implement Web App)
+- [x] Framework (Implement Web App)
   - [x] Bootstrapping application
-  - [ ] Framework specific patterns
+  - [x] Framework specific patterns
   - [x] Code conventions
   - [x] Managing modules/dependencies
   - [x] Framework performance nuances

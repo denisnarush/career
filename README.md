@@ -121,16 +121,16 @@
  ### Results SE > SSE
  - [x] English level: B1-B1+ (B1)
  - [x] Years: B (A+)
- - [ ] Primary Skill: Qualified (Qualified)
+ - [-] Primary Skill: Qualified (Qualified)
  - [x] Responsibilities: Correspond (Correspond) ?
- - [ ] Analytical thinking / Problem Solving: B (A)
- - [ ] Communication / Interaction Skills: B (A)
- - [ ] Stress Tolerance: B (A+)
- - [ ] Accountability / Initiative: A (A)
- - [ ] Customer Focus: B (A)
- - [ ] Teamwork / Collaboration: B (A)
- - [ ] Learning capability: B (A)
- - [ ] Self-Management: B (A)
+ - [x] Analytical thinking / Problem Solving: B (A)
+ - [x] Communication / Interaction Skills: B (A)
+ - [x] Stress Tolerance: B (A+)
+ - [x] Accountability / Initiative: A (A)
+ - [x] Customer Focus: B (A)
+ - [x] Teamwork / Collaboration: B (A)
+ - [x] Learning capability: B (A)
+ - [x] Self-Management: B (A)
  
 # Self-Presentation ([responsibilities](https://confluence.exadel.com/pages/viewpage.action?pageId=76121144))
 ## Narush Denis

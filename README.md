@@ -132,6 +132,15 @@
  - [ ] Learning capability: B (A)
  - [ ] Self-Management: B (A)
  
+Analytical Thinking/Problem Solving - B
+Communication/Interaction skills - B
+Stress Tolerance - B
+Accountability/Initiative  - A
+Customer Focus - B
+Teamwork/Collaboration  - B
+Learning capability - B
+Self-management  - B
+ 
 # Self-Presentation ([responsibilities](https://confluence.exadel.com/pages/viewpage.action?pageId=76121144))
 ## Narush Denis
 

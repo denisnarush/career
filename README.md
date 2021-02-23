@@ -112,7 +112,7 @@
       - [x] Creation: [Singletone](https://refactoring.guru/design-patterns/singleton),
       - [x] Structural: [Facade](https://refactoring.guru/ru/design-patterns/facade), [Wrapper/decorator](https://refactoring.guru/ru/design-patterns/decorator)
       - [x] Behavioral: [Observer](https://refactoring.guru/design-patterns/observer),
-  - [x] [SOLID](https://samueleresca.net/solid-principles-using-typescript/)/Inversion of control/DI
+  - [x] [SOLID](https://samueleresca.net/solid-principles-using-typescript/)/[Inversion of control/DI](https://khalilstemmler.com/articles/tutorials/dependency-injection-inversion-explained)
     - [x] DI [https://v8.angular.io/guide/dependency-injection](https://v8.angular.io/guide/dependency-injection)
   - [x] Anti-patterns [article](https://habr.com/ru/post/59005/)
   - [x] Static typing: [soundness and completeness](https://eschew.wordpress.com/2009/08/31/sound-and-complete/)

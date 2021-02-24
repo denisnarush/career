@@ -116,6 +116,7 @@
     - [x] DI [https://v8.angular.io/guide/dependency-injection](https://v8.angular.io/guide/dependency-injection)
   - [x] Anti-patterns [article](https://habr.com/ru/post/59005/)
   - [x] Static typing: [soundness and completeness](https://eschew.wordpress.com/2009/08/31/sound-and-complete/)
+    - [x] related to TypeScript [soundness](https://www.typescriptlang.org/docs/handbook/type-compatibility.html#a-note-on-soundness)
   
   
  ### Results SE > SSE

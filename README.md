@@ -4,7 +4,7 @@
 ### Career Road Map
 - [x] Junior Sofware Engineer
 - [x] Sofware Engineer
-- [ ] Senior Software Engineer
+- [x] Senior Software Engineer
 - [ ] Development Leader
 
 ### Primary Skill
